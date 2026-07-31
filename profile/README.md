@@ -7,7 +7,7 @@
 **Managed delivery for client tech projects.**
 We plan, build, and run software for our clients — end to end.
 
-[Website](<your-website-url>) · [LinkedIn](<your-linkedin-url>) · [Contact](mailto:<your-email>)
+[Website](<your-website-url>) · [LinkedIn](<https://www.linkedin.com/company/serve-os>) · [Contact](mailto:<your-email>)
 
 </div>
 
